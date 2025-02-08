@@ -23,3 +23,4 @@ The Navigate Dreams is an web application that allows the user to plan their tri
 - Frontend : React.js
 - Backend : Node.js
 - Database : MongoDB
+![image](./Assest/image.jpeg)
